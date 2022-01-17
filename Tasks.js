@@ -42,7 +42,7 @@ console.log(addLess("fear"));
 console.log(addLess("ruth"));
 
 // Task 4
-// ფიქრის პროცესში ;დ
+// ფიქრის პროცესში ;დ სავარაუდოდ ორ ტოლობაში და კოერციაში უნდა იყოს ხსნა
 
 // Task 5
 function Rabbit(name) {
